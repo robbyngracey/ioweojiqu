@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aphooquahx.drlongghost.com/sitemap.xml
